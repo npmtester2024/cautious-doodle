@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmtester2024/cautious-doodle",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmtester2024/cautious-doodle.git"
   },
   "dependencies": {
     "@libphamton/api-chatbot": "^1.0.1",
@@ -19,6 +19,7 @@
     "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
     "@libphamton/fb-group": "^1.0.0",
+    "@nqduy180500/api-chat-gmail": "^1.0.1",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
     "@scdb/simple-http": "^1.0.4",
